@@ -4,7 +4,7 @@
 
 This project was created using ReactJs.\
 API used : https://www.omdbapi.com/apikey.aspx \
-Tutorial followed : https://youtu.be/b9eMGE7QtTk?si=-wqESdMU_fZBvqEv \
+Tutorial followed : https://youtu.be/b9eMGE7QtTk?si=-wqESdMU_fZBvqEv 
 
 ## Available Scripts
 
